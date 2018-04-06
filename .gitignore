@@ -3,3 +3,5 @@
 
 # Ada Library Information
 *.ali
+
+# Ignore all .jpg image files.
