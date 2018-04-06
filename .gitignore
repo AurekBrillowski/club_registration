@@ -10,3 +10,4 @@
 #Ignore all of node_modules & PhpStorm hidden folder.
 node_modules/
 .idea/
+.DS_Store
