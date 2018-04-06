@@ -6,3 +6,6 @@
 
 # Ignore all .jpg image files.
 *.jpg
+
+#Ignore all of node_modules.
+node_modules/
