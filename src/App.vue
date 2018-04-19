@@ -8,5 +8,6 @@
 			return {}
 		},
 		name: 'App'
+		
 	}
 </script>
